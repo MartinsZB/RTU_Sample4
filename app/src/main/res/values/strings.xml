@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RTU_Sample4</string>
+    <string name="itemTitle">My item title</string>
+    <string name="itemDescription">A bit more detailed descrition of my title</string>
+    <string name="itemButton">Click Me</string>
+    <string name="mainLabel">This is the main label</string>
+</resources>
